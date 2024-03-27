@@ -6,10 +6,10 @@ Microsoft Defender for Endpoint is a comprehensive endpoint security solution th
 ![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (3)](https://github.com/0xrajneesh/Home-Lab/assets/40385860/81d6814b-f4f6-456b-a2c8-86b0fea1422a)
 
 In this Home-Lab, we will cover:
-- Requirement
-- Lab Diagram
-- Setting up Microsoft Defender for Endpoint
-- Excercises
+- [Requirement](https://github.com/0xrajneesh/Microsoft-Defender-EDR-Home-Lab?tab=readme-ov-file#requirements)
+- [Lab Diagram](https://github.com/0xrajneesh/Microsoft-Defender-EDR-Home-Lab?tab=readme-ov-file#%EF%B8%8Flab-diagram)
+- [Setting up Microsoft Defender for Endpoint](https://github.com/0xrajneesh/Microsoft-Defender-EDR-Home-Lab?tab=readme-ov-file#-setting-up-microsoft-defender-for-endpointtrial-account)
+- [Excercises](https://github.com/0xrajneesh/Microsoft-Defender-EDR-Home-Lab?tab=readme-ov-file#excercises)
 
 
 ## 🧮Requirements
